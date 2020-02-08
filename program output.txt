@@ -1,0 +1,10 @@
+Most popular three articles of all time:
+" Candidate is jerk, alleges rival "   __   338647 Views
+" Bears love berries, alleges bear "   __   253801 Views
+" Bad things gone, say good people "   __   170098 Views
+
+Most popular author:
+Ursula La Multa   __   507594 Views
+
+Days with more than 1% errors:
+2016-07-17   __   2.26 % errors
